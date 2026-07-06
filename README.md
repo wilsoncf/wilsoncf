@@ -25,11 +25,6 @@ Always focused on software quality, clean architecture (MVC), and automated test
 
 ---
 
-### 📈 GitHub Stats
-![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsoncf&show_icons=true&theme=radium)
-
----
-
 ### 📫 Let's Connect!
 *   **Email:** wilsoncffilho@outlook.com
 *   **LinkedIn:** https://www.linkedin.com/in/wilson-conegundes
