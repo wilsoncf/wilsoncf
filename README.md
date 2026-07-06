@@ -18,10 +18,10 @@ Always focused on software quality, clean architecture (MVC), and automated test
 
 ### 💻 Tech Stack
 
-**Languages:** Python, C/C++, Kotlin, SQL, JavaScript  
-**Frameworks & Libs:** Django, Flask, Qt, AngularJS, LangChain, pytest 
-**DevOps & Tools:** Github Actions (CI/CD), Git, ROS 2, Jira, Confluence
-**Cloud & DBs:** PostgreSQL, MySQL, MongoDB, AWS (S3, Lambda, EC2), Oracle Cloud   
+* **Languages:** Python, C/C++, Kotlin, SQL, JavaScript  
+* **Frameworks & Libs:** Django, Flask, Qt, AngularJS, LangChain, pytest
+* **DevOps & Tools:** Github Actions (CI/CD), Git, ROS 2, Jira, Confluence
+* **Cloud & DBs:** PostgreSQL, MySQL, MongoDB, AWS (S3, Lambda, EC2), Oracle Cloud   
 
 ---
 
